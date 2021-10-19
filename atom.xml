@@ -3,11 +3,11 @@
   <title>This, is Vela</title>
   <icon>https://www.gravatar.com/avatar/d0035175c832625c7c7319a95a16587a</icon>
   
-  <link href="http://vela.today/atom.xml" rel="self"/>
+  <link href="http://vela.pro/atom.xml" rel="self"/>
   
-  <link href="http://vela.today/"/>
+  <link href="http://vela.pro/"/>
   <updated>2021-09-17T07:12:25.931Z</updated>
-  <id>http://vela.today/</id>
+  <id>http://vela.pro/</id>
   
   <author>
     <name>Vela Yang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>This is Vela</title>
-    <link href="http://vela.today/2021/09/08/hello-world/"/>
-    <id>http://vela.today/2021/09/08/hello-world/</id>
+    <link href="http://vela.pro/2021/09/08/hello-world/"/>
+    <id>http://vela.pro/2021/09/08/hello-world/</id>
     <published>2021-09-08T14:53:49.001Z</published>
     <updated>2021-09-17T07:12:25.931Z</updated>
     
