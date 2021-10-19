@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>This, is Vela</title>
-  <icon>https://www.gravatar.com/avatar/d0035175c832625c7c7319a95a16587a</icon>
+  <icon>https://www.gravatar.com/avatar/37f94324d5d0d92e0fe83c9c8b77761f</icon>
   
   <link href="http://vela.pro/atom.xml" rel="self"/>
   
@@ -11,7 +11,7 @@
   
   <author>
     <name>Vela Yang</name>
-    <email>yf@vela.today</email>
+    <email>yf@vela.pro</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
